@@ -1,1 +1,4 @@
 .github
+my-vue-module
+package-lock.json
+node_modules

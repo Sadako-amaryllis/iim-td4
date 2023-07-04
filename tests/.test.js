@@ -11,5 +11,5 @@ describe('getrandomnumber', () => {
     const randomNumber = getrandomnumber();
     expect(Number.isInteger(randomNumber)).toBe(true);
   });
-  
+
 });
