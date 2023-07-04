@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div >
     <p>Nombre aléatoire: {{ randomNumber }}</p>
     <button @click="generateRandomNumber">Générer un nouveau chiffre aléatoire</button>
   </div>
